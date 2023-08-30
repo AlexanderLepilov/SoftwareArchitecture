@@ -1,7 +1,7 @@
 package Home_work_1.ModelElements;
 
-import homework_1.Stuff.Angle3D;
-import homework_1.Stuff.Point3D;
+import Home_work_1.Stuff.Angle3D;
+import Home_work_1.Stuff.Point3D;
 
 public class Flash {
 

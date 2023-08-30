@@ -1,8 +1,8 @@
 package Home_work_1.ModelElements;
 
-mport java.util.List;
+import java.util.List;
 
-import homework_1.Stuff.Point3D;
+import Home_work_1.Stuff.Point3D;
 
 public class Poligon {
 
